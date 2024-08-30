@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339b92754153f6e4c94edaf9350ff7d8, type: 3}
+  m_Name: FarmerDeck
+  m_EditorClassIdentifier: 
+  <CardsInCollection>k__BackingField:
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: 3051c27e3dcf94f4c8f5a2f98deedec2, type: 2}
+  - {fileID: 11400000, guid: a8f4c1472ebc75e43940145e1d39008a, type: 2}
+  - {fileID: 11400000, guid: 76a16edf1440ff24c8be749f3fff82d4, type: 2}
+  - {fileID: 11400000, guid: e333c052abb50a040a208aba2961d349, type: 2}
+  - {fileID: 11400000, guid: e333c052abb50a040a208aba2961d349, type: 2}
+  - {fileID: 11400000, guid: 181954eee16477f4fb909d39c9a8ea32, type: 2}
+  - {fileID: 11400000, guid: 181954eee16477f4fb909d39c9a8ea32, type: 2}
+  - {fileID: 11400000, guid: 7ab3e4f65b5108d438a8b3687602ab0e, type: 2}
+  - {fileID: 11400000, guid: e76ada7502154ec4496bda53cb6b04b0, type: 2}
+  - {fileID: 11400000, guid: d7d559fa6fba6d54d9808cb7e42981c7, type: 2}
+  - {fileID: 11400000, guid: d7d559fa6fba6d54d9808cb7e42981c7, type: 2}
+  - {fileID: 11400000, guid: fcaf77cdaeb957a409d3725774645abc, type: 2}
+  - {fileID: 11400000, guid: fcaf77cdaeb957a409d3725774645abc, type: 2}
+  - {fileID: 11400000, guid: 331c7f3751d21b149b5ca9ce6393a835, type: 2}
+  - {fileID: 11400000, guid: 331c7f3751d21b149b5ca9ce6393a835, type: 2}
+  - {fileID: 11400000, guid: 88065bb73135ece46ad5f543543c9f3d, type: 2}
+  - {fileID: 11400000, guid: 88065bb73135ece46ad5f543543c9f3d, type: 2}
+  CollectionName: 
